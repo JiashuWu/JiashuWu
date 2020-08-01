@@ -12,11 +12,11 @@
   </tr>
   
   <tr>
-    <td><a href="https://github.com/JiashuWu/David-Jiashu-Wu/blob/master/Curriculum%20Vitae/%E5%90%B4%E5%98%89%E6%BE%8D.pdf">My Resume</a></td>
-    <td>My WeChat: jiashu613</td>
-    <td>My Phone: 17801323125</td>
-    <td><a href="mailto:jiashu@student.unimelb.edu.au">jiashu@student.unimelb.edu.au</a></td>
-    <td><a href="https://www.linkedin.com/in/jiashu-wu/">My LinkedIn</a></td>
+    <td><a href="https://github.com/JiashuWu/David-Jiashu-Wu/blob/master/Curriculum%20Vitae/%E5%90%B4%E5%98%89%E6%BE%8D.pdf"><img src="https://github.com/JiashuWu/jiashuwu.github.io/blob/master/icons/pdf.svg" width="15" height="15">&nbspMy Resume</a></td>
+    <td><img src="https://github.com/JiashuWu/jiashuwu.github.io/blob/master/icons/wechat.svg" width="23" height="23">&nbspMy WeChat: jiashu613</td>
+    <td><img src="https://github.com/JiashuWu/jiashuwu.github.io/blob/master/icons/phone.png" width="18" height="18">&nbspMy Phone: 17801323125</td>
+    <td><a href="mailto:jiashu@student.unimelb.edu.au"><img src="https://github.com/JiashuWu/jiashuwu.github.io/blob/master/icons/mail.svg" width="15" height="15">&nbspjiashu@student.unimelb.edu.au</a></td>
+    <td><a href="https://www.linkedin.com/in/jiashu-wu/"><img src="https://github.com/JiashuWu/jiashuwu.github.io/blob/master/icons/linkedin.svg" width="15" height="15">&nbspMy LinkedIn</a></td>
   </tr>
 </table>
 
