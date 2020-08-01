@@ -16,7 +16,7 @@
     <td>My WeChat: jiashu613</td>
     <td>My Phone: 17801323125</td>
     <td><a href="mailto:jiashu@student.unimelb.edu.au">jiashu@student.unimelb.edu.au</a></td>
-    <td><a href="https://www.linkedin.com/in/jiashu-wu/" target="_blank">My LinkedIn</a></td>
+    <td><a href="https://www.linkedin.com/in/jiashu-wu/" download="吴嘉澍.pdf">My LinkedIn</a></td>
   </tr>
 </table>
 
