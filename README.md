@@ -8,21 +8,15 @@
 
 <table>
   <tr>
-    <td colspan="2">📫 Stay connected</td>
+    <td colspan="5">📫 Stay connected</td>
   </tr>
   
   <tr>
-    <td><a href="https://www.linkedin.com/in/jiashu-wu/">My LinkedIn</a></td>
-    <td><a href="https://github.com/jiashuwu">My GitHub</a></td>
-  </tr>
-
-  <tr>
+    <td><a href="https://github.com/JiashuWu/David-Jiashu-Wu/blob/master/Curriculum%20Vitae/%E5%90%B4%E5%98%89%E6%BE%8D.pdf">My CV</a></td>
     <td>My WeChat: jiashu613</td>
     <td>My Phone: 17801323125</td>
-  </tr>
-  
-  <tr>
-    <td colspan="2"><a href="mailto:jiashu@student.unimelb.edu.au">My Email: jiashu@student.unimelb.edu.au</a></td>
+    <td><a href="mailto:jiashu@student.unimelb.edu.au">jiashu@student.unimelb.edu.au</a></td>
+    <td><a href="https://www.linkedin.com/in/jiashu-wu/" target="_blank">My LinkedIn</a></td>
   </tr>
 </table>
 
