@@ -12,7 +12,7 @@
   </tr>
   
   <tr>
-    <td><a href="https://raw.githubusercontent.com/JiashuWu/David-Jiashu-Wu/master/Curriculum%20Vitae/%E5%90%B4%E5%98%89%E6%BE%8D.pdf" target="_blank" type="application/octet-stream" download="吴嘉澍.pdf">My CV</a></td>
+    <td><a href="https://github.com/JiashuWu/David-Jiashu-Wu/blob/master/Curriculum%20Vitae/%E5%90%B4%E5%98%89%E6%BE%8D.pdf">My CV</a></td>
     <td>My WeChat: jiashu613</td>
     <td>My Phone: 17801323125</td>
     <td><a href="mailto:jiashu@student.unimelb.edu.au">jiashu@student.unimelb.edu.au</a></td>
