@@ -14,7 +14,7 @@
   </tr>
   
   <tr>
-    <td><a href="https://github.com/JiashuWu/David-Jiashu-Wu/blob/master/Curriculum%20Vitae/吴嘉澍.pdf" target="_blank"><img src="https://github.com/JiashuWu/jiashuwu.github.io/blob/master/icons/pdf.svg" width="15" height="15">&nbspResume</a></td>
+    <td><a href="https://jiashuwu.github.io/JiashuWu/_.html" target="_blank"><img src="https://github.com/JiashuWu/jiashuwu.github.io/blob/master/icons/pdf.svg" width="15" height="15">&nbspResume</a></td>
     <td>WeChat: jiashu613</td>
     <td>Phone: 17801323125</td>
     <td><a href="mailto:jiashu@student.unimelb.edu.au">jiashu@student.unimelb.edu.au</a></td>
