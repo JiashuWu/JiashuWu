@@ -12,7 +12,7 @@
   </tr>
   
   <tr>
-    <td><a href="Resume/吴嘉澍.pdf" target="_blank"><img src="_/pdf.png" width="12.6" height="15"> Resume</a></td>
+    <td><a href="https://jiashuwu.github.io/JiashuWu/Resume/吴嘉澍.pdf" target="_blank"><img src="_/pdf.png" width="12.6" height="15"> Resume</a></td>
     <td>WeChat: jiashu613</td>
     <td>Phone: 17801323125</td>
     <td><a href="mailto:jiashu@student.unimelb.edu.au">jiashu@student.unimelb.edu.au</a></td>
