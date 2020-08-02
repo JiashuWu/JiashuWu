@@ -1,8 +1,6 @@
-### Hi, I am Jiashu Wu 😄
+### Hi, I am Jiashu Wu 😄 ![Profile Views](https://komarev.com/ghpvc/?username=JiashuWu&style=flat&color=orange)
 
 [![Jiashu Wu's GitHub](https://github-readme-stats.vercel.app/api?username=JiashuWu&show_icons=true&count_private=true&hide=issues,contribs&theme=vue)](https://github.com/JiashuWu/)
-
-![Profile Views](https://komarev.com/ghpvc/?username=JiashuWu&style=flat&color=orange)
 
 <!--
 [![Jiashu Wu's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JiashuWu&layout=compact&hide=javascript,html,css,hack)](https://github.com/JiashuWu)
