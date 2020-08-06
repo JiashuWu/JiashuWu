@@ -8,15 +8,18 @@
 
 <table>
   <tr>
-    <td colspan="5">📫 Stay connected</td>
+    <td colspan="4">📫 Stay connected</td>
   </tr>
   
   <tr>
     <td><a href="https://jiashuwu.github.io/JiashuWu/Resume/吴嘉澍.pdf" target="_blank">📝Resume</a></td>
     <td>WeChat: jiashu613</td>
     <td>Phone: 17801323125</td>
-    <td><a href="mailto:jiashu@student.unimelb.edu.au">jiashu@student.unimelb.edu.au</a></td>
     <td><a href="https://www.linkedin.com/in/jiashu-wu/">LinkedIn</a></td>
+  </tr>
+  <tr>
+    <td colspan="2"><a href="mailto:jiashu@student.unimelb.edu.au">jiashu@student.unimelb.edu.au</a></td>
+    <td colspan="2"><a href="mailto:jiashu613@outlook.com">jiashu613@outlook.com</a></td>
   </tr>
 </table>
 
