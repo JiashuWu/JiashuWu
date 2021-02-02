@@ -18,7 +18,7 @@
     <td><a href="https://www.linkedin.com/in/jiashu-wu/">LinkedIn</a></td>
   </tr>
   <tr>
-    <td colspan="2"><a href="mailto:jiashu@student.unimelb.edu.au">jiashu@student.unimelb.edu.au</a></td>
+    <td colspan="2"><a href="mailto:js.wu@siat.ac.cn">jiashu@student.unimelb.edu.au</a></td>
     <td colspan="2"><a href="mailto:jiashu613@outlook.com">jiashu613@outlook.com</a></td>
   </tr>
 </table>
