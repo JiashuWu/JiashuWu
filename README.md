@@ -12,6 +12,10 @@
   </tr>
   
   <tr>
+    <td colspan="4">Personal Website: <a href="https://jiashuwu.github.io/">jiashuwu.github.io</a></td>
+  </tr>
+  
+  <tr>
     <td><a href="https://jiashuwu.github.io/JiashuWu/Resume/吴嘉澍.pdf" target="_blank">📝简历</a>&nbsp<a href="https://jiashuwu.github.io/JiashuWu/Resume/Jiashu Wu.pdf" target="_blank">📝Resume</a></td>
     <td>WeChat: jiashu613</td>
     <td>Phone: 17801323125</td>
